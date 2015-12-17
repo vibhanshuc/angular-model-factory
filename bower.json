@@ -1,5 +1,6 @@
 {
   "name": "angular-model-factory",
+  "version": "0.0.1",
   "authors": [
     "Austin McDaniel <amcdaniel2@gmail.com>",
     "Juri Strumpflohner <juri.strumpflohner@gmail.com>",
@@ -11,12 +12,11 @@
     "type": "git",
     "url": "git://github.com/vibhanshuc/angular-model-factory.git"
   },
-  "main": "./dist/angular-model-factory.js",
+  "main": "./src/angular-model-factory.js",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "src",
     "examples"
   ],
   "dependencies": {
