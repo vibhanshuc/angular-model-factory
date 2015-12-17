@@ -9,7 +9,7 @@
   "homepage": "http://swimlane.github.io/angular-model-factory/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/swimlane/model-factory.git"
+    "url": "git://github.com/91springboard/angular-model-factory.git"
   },
   "main": "./dist/angular-model-factory.js",
   "ignore": [
