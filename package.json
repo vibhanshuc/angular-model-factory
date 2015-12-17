@@ -1,7 +1,8 @@
 {
   "name": "angular-model-factory",
-  "author": "Austin McDaniel <amcdaniel2@gmail.com>",
+  "version": "1.0.6",
   "authors": [
+    "Austin McDaniel <amcdaniel2@gmail.com>",
     "Juri Strumpflohner <juri.strumpflohner@gmail.com>"
   ],
   "description": "modelFactory makes working with RESTful APIs in AngularJS easy",
