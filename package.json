@@ -31,7 +31,6 @@
     "build": "grunt build",
     "prepublish": "npm run build",
     "postpublish": "publish-latest",
-    "test": "grunt karma:ci",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
