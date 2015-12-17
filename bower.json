@@ -2,14 +2,14 @@
   "name": "angular-model-factory",
   "authors": [
     "Austin McDaniel <amcdaniel2@gmail.com>",
-    "Juri Strumpflohner <juri.strumpflohner@gmail.com>"
+    "Juri Strumpflohner <juri.strumpflohner@gmail.com>",
+    "Vibhanshu Chaturvedi <vibhanshu86@gmail.com>"
   ],
   "description": "modelFactory makes working with RESTful APIs in AngularJS easy",
   "license": "MIT",
-  "homepage": "http://swimlane.github.io/angular-model-factory/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/91springboard/angular-model-factory.git"
+    "url": "git://github.com/vibhanshuc/angular-model-factory.git"
   },
   "main": "./dist/angular-model-factory.js",
   "ignore": [
